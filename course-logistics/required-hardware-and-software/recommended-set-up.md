@@ -16,15 +16,16 @@ All code-related files and folders are in kebab case (hyphenated and lowercase),
 {% hint style="info" %}
 As a shortcut, we can run the following command in the terminal to create all the folders.
 
-1. Open the `Documents` folder in VSCode with File > Open Folder and choose `Documents`.
+1.  Open the `Documents` folder in VSCode with File > Open Folder and choose `Documents`.
 2.  Run the following command.
 
-    ````
-    ```
-    mkdir -p fundamentals/day{1..12}/{in-class,pre-class}
-    ```
-    ````
-{% endhint %}
+        ````
+        ```
+        mkdir -p fundamentals/day{1..12}/{in-class,pre-class}
+        ```
+        ````
+
+    {% endhint %}
 
 {% hint style="warning" %}
 When cloning the starter code, choose to [name the target folder](../../8-github/8.1-intro-to-github.md#git-clone) to the relevant exercise name. This is so that we do not end up with Git repositories within Git repositories, which can confuse Git and cause issues.
@@ -47,7 +48,7 @@ On Windows computers it may not be clear where a given folder is. Some Windows c
 When working with code, it's often necessary to switch between different files in the same repository, or even across repositories. Instead of using File > Open to open a specific _file_ each time, we can save time by opening the _folder_ that contains all the files we may want to access. We can do this on Windows by going to File > Open Folder, or on Mac with File > Open, and selecting the relevant folder. This will open the folder and its file structure in the VSCode sidebar, allowing us to switch quickly between files in that folder without having to File > Open every time.
 
 {% hint style="info" %}
-For Coding Fundamentals, we recommend storing all of your code in a folder called `fundamentals` as per the [recommended folder structure](required-software-2.md), and keeping that folder open in VSCode for the duration of the course.
+For Coding Fundamentals, we recommend storing all of your code in a folder called `fundamentals` as per the recommended folder structure above, and keeping that folder open in VSCode for the duration of the course.
 {% endhint %}
 
 ![Sample fundamentals folder in VSCode](<../../.gitbook/assets/截屏2021-03-02 15.52.14.png>)

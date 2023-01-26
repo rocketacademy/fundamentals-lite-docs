@@ -6,14 +6,14 @@ description: ✂️📃💎😜
 
 ## Introduction
 
-For our first project we will make our own version of the classic [Scissors Paper Stone](https://en.wikipedia.org/wiki/Rock_paper_scissors) game. We have split this project into 2 parts to cater to the pace of Rocket's Fundamentals course. See the [Course Schedule](https://github.com/rocketacademy/basics-docs/blob/main/projects/project-1-scissors-paper-stone/broken-reference/README.md) for when we have assigned each part.
+For our first project we will make our own version of the classic [Scissors Paper Stone](https://en.wikipedia.org/wiki/Rock_paper_scissors) game. We have split this project into 2 parts to cater to the pace of Rocket's Fundamentals course. See the Course Schedule for when we have assigned each part.
 
 Part 1 works with the technologies we have learned so far in Fundamentals, and Part 2 adds additional technologies that we learn in subsequent course days.
 
 ## Setup
 
-1. Create a `project` directory in your `basics` code folder to host your projects if you haven't already.
-2. Make a copy of the [basics starter code](https://github.com/rocketacademy/fundamentals-starter-code/archive/refs/heads/main.zip) for your Scissors Paper Stone project.
+1. Create a `project` directory in your `fundamentals` code folder to host your projects if you haven't already.
+2. Make a copy of the [Fundamentals starter code](https://github.com/rocketacademy/fundamentals-starter-code/archive/refs/heads/main.zip) for your Scissors Paper Stone project.
 
 ## Base
 

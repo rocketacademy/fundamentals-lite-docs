@@ -53,7 +53,7 @@ If you get stuck, or are unsure on how to start, Bryan will walk you through how
 
 ### Add some polish!
 
-Your game is working as intended, now it's time to make it look good! We'll edit index.html to personalise our game. If needed, review [1.2 Web Browsers](https://basics.rocketacademy.co/1-introduction/1.2-web-browsers) on how to edit HTML.
+Your game is working as intended, now it's time to make it look good! We'll edit index.html to personalise our game. If needed, review [1.2 Web Browsers](https://fundamentalslite.rocketacademy.co/1-introduction/1.2-web-browsers) on how to edit HTML.
 
 At line 29 of index.html, try changing `background-color: pink;` to `background-color: lightblue;` or any [colour ](https://www.w3schools.com/colors/colors_names.asp)of your choice!
 
