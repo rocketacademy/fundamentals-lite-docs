@@ -1,0 +1,43 @@
+# 🧩 Course Components
+
+Coding Fundamentals Lite applied a self-driven learning model where the entire course is split into 2 main core components: **self-learning** and **office hours**
+
+### Self-Learning
+
+The core of this class will be self taught, driven by the student to follow the provided [schedule](../schedule-and-pairings/). Following this schedule students are expected to complete their own readings, homework and even projects. The schedule is in place to provide a recommended pace for self learning, and provided office hours (see below) will also be based on the provided timing. The timing of the course is a direct match to our core S.W.E. Fundamentals class, and we believe you can achieve it!
+
+### **Office hours**
+
+Twice a week, office hours will be held, by Rocket Academy Section Leaders, where students on this self-driven course can come clarify any concepts, logics or exercises pertaining to that weeks material. Office hours will not be lecture held to explain anything new, or go over the material, so students are expected to come in only having completed the readings and exercises.&#x20;
+
+**Office hours are optional.** They will be held over Zoom.
+
+During office hours **we will:**
+
+* Answer specific questions regarding concepts / material as laid out in the reading material that week
+* Answer specific questions on blockers students may have pertaining to that weeks reading
+* Providing extra external material to students who want more material regarding specific topics.
+
+During office hours **we will not:**
+
+1. Go over the entire day's reading material and explain concepts from scratch
+2. Go over previous weeks material
+3. Answer questions too far in advanced
+
+
+
+## Exercise, Project Strategy
+
+Please read through all sections of exercises and projects before starting. Later parts of exercises and projects may require different code architecture than earlier parts. **Failure to take into consideration all aspects of the project might result in a lengthy refactor.**
+
+### Base, More Comfortable
+
+To accommodate different learning speeds and prior experience, exercises and projects may have different sections to differentiate what must be completed to minimally understand concepts, and what are extra exercises or features to help solidify one's understanding.
+
+#### Base
+
+Everything in the Base section must be completed to minimally understand relevant concepts. When short on time, we can complete the Base section then move onto the next exercise or project.
+
+#### More Comfortable
+
+The More Comfortable section is for students that wish to push their boundaries. Students can complete Coding Fundamentals without touching More Comfortable, but students that complete More Comfortable exercises will gain more experience and may be more valuable in the job market.
