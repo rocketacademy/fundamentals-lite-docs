@@ -4,8 +4,6 @@
 
 GUI-application software is software we run with a graphical user interface (GUI) on our operating system.
 
-
-
 ### Zoom
 
 Zoom is Rocket's chosen video conferencing software for class. Each section will have its own Zoom room. The link to this room can be found at the top of each section's Slack channel.
@@ -21,8 +19,8 @@ Chrome is the most popular web browser for software engineers because of its mat
 
 #### **Installation**
 
-1. Download Chrome for your OS [here](https://www.google.com/intl/en\_sg/chrome/).
+1. Download Chrome for your OS [here](https://www.google.com/intl/en_sg/chrome/).
 
 ### VSCode
 
-VSCode is the most popular code editor in the world. We will write all code for Coding Basics inside of VSCode. Download VSCode for your OS [here](https://code.visualstudio.com/download).
+VSCode is the most popular code editor in the world. We will write all code for Coding Fundamentals inside of VSCode. Download VSCode for your OS [here](https://code.visualstudio.com/download).

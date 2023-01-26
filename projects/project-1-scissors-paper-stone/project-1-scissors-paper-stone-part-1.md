@@ -6,9 +6,9 @@ description: ✂️📃💎😜
 
 ## Introduction
 
-For our first project we will make our own version of the classic [Scissors Paper Stone](https://en.wikipedia.org/wiki/Rock_paper_scissors) game. We have split this project into 2 parts to cater to the pace of RA's Basics course. See the [Course Schedule](https://github.com/rocketacademy/basics-docs/blob/main/projects/project-1-scissors-paper-stone/broken-reference/README.md) for when we have assigned each part.
+For our first project we will make our own version of the classic [Scissors Paper Stone](https://en.wikipedia.org/wiki/Rock_paper_scissors) game. We have split this project into 2 parts to cater to the pace of Rocket's Fundamentals course. See the [Course Schedule](https://github.com/rocketacademy/basics-docs/blob/main/projects/project-1-scissors-paper-stone/broken-reference/README.md) for when we have assigned each part.
 
-Part 1 works with the technologies we have learned so far in Basics, and Part 2 adds additional technologies that we learn in subsequent course days.
+Part 1 works with the technologies we have learned so far in Fundamentals, and Part 2 adds additional technologies that we learn in subsequent course days.
 
 ## Setup
 

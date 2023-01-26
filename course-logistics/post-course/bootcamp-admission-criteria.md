@@ -1,10 +1,10 @@
 # 🚂 Bootcamp Admission Criteria
 
-Coding Basics is a pre-requisite for Software Engineering Bootcamp (SEB). Basics section leaders will share feedback with students each class on their progress. By the end of Basics, students should know whether they have met the criteria to join SEB.
+Coding Fundamentals is a pre-requisite for Software Engineering Bootcamp (SEB). Fundamentals section leaders will share feedback with students each class on their progress. By the end of Fundamentals, students should know whether they have met the criteria to join SEB.
 
-In general, the criteria to pass Basics and join Bootcamp are the following.
+In general, the criteria to pass Fundamentals and join Bootcamp are the following.
 
-1. Completion and submission of the 3 projects in Basics
+1. Completion and submission of the 3 projects in Fundamentals
 2. Demonstrated improvement between each of the 3 projects based on section leader feedback
 3. Pass [Rocket's Video Application](bootcamp-video-application.md)
 
