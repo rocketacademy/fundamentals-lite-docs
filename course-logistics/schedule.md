@@ -24,21 +24,18 @@ Office Hours: 07:30 PM SGT (GMT+8)
 
 #### Readings
 
+Course Logistics
+
 1. [Course Overview](../)
 2. [Course Methodology](course-methodology/)
    1. [Course Components](course-methodology/course-components.md)
    2. [Communications](course-methodology/communication.md)
 3. [Required Hardware and Software](required-hardware-and-software/)
 
-#### **Module 1: Introduction**
+Module 1: Introduction
 
 * [1.1: What is coding?](../1-introduction/1.1-what-is-coding.md)
 * [1.2: Web Browsers](../1-introduction/1.2-web-browsers.md)
-
-#### Homework
-
-1. Look ahead:
-   1. [Readings](schedule.md#reading)
 
 ## Week 1, Course Day 2: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
 
@@ -51,7 +48,7 @@ Office hours: 07:30 PM SGT (GMT+8)
 #### Reading
 
 {% hint style="warning" %}
-S.W.E Fundamentals used to be called SWE101 and some of our videos were made before the name change and still reference the old name of SWE101. Please take note!
+Fundamentals used to be called SWE101 and some of our videos were made before the name change and still reference the old name of SWE101.
 {% endhint %}
 
 **Module 1: Introduction**
@@ -231,42 +228,23 @@ Office hours: 7:30 PM SGT (GMT+8)
 * [8.4 GitHub Repo Browsing](../8-github/8.4-github-repo-browsing.md)
 * [8.5 Deployment](../8-github/8.5-deployment.md)
 
-## Post-Course Materials <a href="#course-day-12" id="course-day-12"></a>
-
-Whats next?
+## What's Next? <a href="#course-day-12" id="course-day-12"></a>
 
 {% embed url="https://www.youtube.com/watch?v=H8IFuiriwXs" %}
 
-#### Next Steps
-
-Thank you for completing Coding Fundamentals Lite! If you have enjoyed your time with us, we would love to work with you again and join you on your coding journey! Feel free to learn more about our Bootcamp where we can help you transition into a full time software engineering role!\
-\
-Find out more about our course with the following links
-
-* [Post-Course](post-course/)
-* [Rocket Academy Bootcamp](https://www.rocketacademy.co/courses/bootcamp-course)
-
-If you're a Singaporean Citizen or PR, we even have TIPP subsidies which you can find out more about [here!](https://subsidies.rocketacademy.co/)
-
-Still curious about what others say about our bootcamp? Check out what our past students are saying about our Bootcamp course:
+Thank you for completing Fundamentals Lite! If you enjoyed your time with us, we would love to continue supporting your coding journey! Feel free to check out [Rocket's Bootcamp](https://www.rocketacademy.co/courses/bootcamp-course) for resources on becoming a professional software engineer.
 
 {% embed url="https://www.youtube.com/watch?v=wbhWEfF5Ky4" %}
 
-## Review
-
-If you have time, please leave us a review [here](https://g.page/r/CSZ\_h\_iYmM8wEB0/review)! It’ll help others like yourself learn more about Rocket.
-
-**Recommended Sites to continue your coding journey on your own!**
+## Recommended 3rd-Party Resources
 
 {% embed url="https://www.freecodecamp.org/" %}
-**tons of content and it's all free!! (with the occasional request for donation**
+Tons of content and it's all free!! (with the occasional request for donation)
 {% endembed %}
 
 {% embed url="https://www.theodinproject.com/" %}
 Course specifically for Web Development
 {% endembed %}
-
-### Recommended YouTube Channels
 
 {% embed url="https://www.youtube.com/c/WebDevSimplified" %}
 Very consistent posts on various aspects of web development and how to implement
@@ -279,3 +257,7 @@ A channel with a huge collection in various areas of programming
 {% embed url="https://www.youtube.com/user/mycodeschool" %}
 A channel that focuses on algorithms and data structures to understand the core concepts of programming
 {% endembed %}
+
+## Leave Us A Review!
+
+If you have time, please leave us a review [here](https://g.page/r/CSZ\_h\_iYmM8wEB0/review)! It’ll help others like yourself learn more about Rocket.
