@@ -34,4 +34,4 @@ If you'd like to learn more, this page contains a non-exhaustive, unordered list
 2. [Command Line Cheatsheet](https://files.fosswire.com/2007/08/fwunixref.pdf)
 3. [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
 4. [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line#readme)
-5. [Conquering the Command Line](https://www.softcover.io/read/fc6c09de/unix\_commands/basics) _\[book]_
+5. [Conquering the Command Line](https://www.softcover.io/read/fc6c09de/unix\_commands/basics) (book)
