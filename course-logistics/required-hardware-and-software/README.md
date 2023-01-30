@@ -16,6 +16,10 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=ikoBvVq_Ayg" %}
 
+## Required Software
+
+Please install the required software on the following pages. If you have any difficulty preparing the required software, please let us know and we would be happy to help!
+
 {% content-ref url="required-software-1.md" %}
 [required-software-1.md](required-software-1.md)
 {% endcontent-ref %}
@@ -27,5 +31,3 @@ description: >-
 {% content-ref url="recommended-set-up.md" %}
 [recommended-set-up.md](recommended-set-up.md)
 {% endcontent-ref %}
-
-If you have any difficulty in preparing the required software, do ask for help in Slack! Your coursemates, peers and Section Leaders will be happy to help.

@@ -6,7 +6,7 @@ GUI-application software is software we run with a graphical user interface (GUI
 
 ### Zoom
 
-Zoom is Rocket's chosen video conferencing software for class. Each section will have its own Zoom room. The link to this room can be found at the top of each section's Slack channel.
+Zoom is Rocket's video conferencing software for office hours. We will share the Zoom link for office hours in Telegram.
 
 #### **Installation**
 
@@ -19,7 +19,7 @@ Chrome is the most popular web browser for software engineers because of its mat
 
 #### **Installation**
 
-1. Download Chrome for your OS [here](https://www.google.com/intl/en_sg/chrome/).
+1. Download Chrome for your OS [here](https://www.google.com/intl/en\_sg/chrome/).
 
 ### VSCode
 

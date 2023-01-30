@@ -158,34 +158,3 @@ Following the convention of all the other Rocket Academy Git repositories and Gi
 ```
 git config --global init.defaultBranch main
 ```
-
-## Exercise: **Send Your First Slack Message!**
-
-### **Introduction**
-
-_Once you have been added to a section in Slack_, send your first message to your new section mates. Please include the following in your message:
-
-1. Where are you based?
-2. What do you do for work?
-3. Why do you want to learn coding?
-4. 4 emojis that describe you
-5. Your specific OS version. This will be the result of running the command below for your specific OS (Windows or Mac)
-6. Anything else you would like to share 😁
-
-<img src="../../.gitbook/assets/image.png" alt="Slack Message from Kai" data-size="original">
-
-### Retrieve Your OS Version
-
-These commands are for the intro above. Don't worry about exactly what's happening in these commands yet. This exercise is just to get you started with typing in the Command Line interface and sending Slack messages. We'll learn more about the command line in [1.3 Command Line.](../../1-introduction/1.3-command-line.md)
-
-#### Windows
-
-```
-cmd /c ver
-```
-
-#### Mac
-
-```
-sw_vers
-```
