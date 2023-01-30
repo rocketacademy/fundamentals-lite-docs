@@ -18,7 +18,7 @@
   * [📒 Coding Strategies](course-logistics/tips-and-tricks/coding-strategies.md)
   * [🛠 Tooling Pro Tips](course-logistics/tips-and-tricks/tooling-pro-tips.md)
 * [🎓 Post-Course](course-logistics/post-course/README.md)
-  * [🚀 Converting to Coding Fundamentals](course-logistics/post-course/linkedin-certificates.md)
+  * [🚀 Upgrading to Paid Fundamentals](course-logistics/post-course/linkedin-certificates.md)
   * [🚂 Bootcamp Admission Criteria](course-logistics/post-course/bootcamp-admission-criteria.md)
   * [📹 Bootcamp Video Application](course-logistics/post-course/bootcamp-video-application.md)
 
