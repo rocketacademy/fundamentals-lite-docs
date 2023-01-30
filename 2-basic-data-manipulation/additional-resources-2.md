@@ -14,13 +14,13 @@ If you'd like to learn more, this page contains a non-exhaustive, unordered list
 
 ## Operations and Variables
 
-1. [MDN: Basic math in JavaScript — numbers and operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First\_steps/Math)
+1. [MDN: Basic math in JavaScript — numbers and operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
 2. \*\*\*\*[JavaSript.info: Operators](https://javascript.info/operators)
 3. [JavaScript.info: Variables](https://javascript.info/variables)
 
 ## Data Types
 
-1. [MDN: Handling text — strings in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First\_steps/Strings)
+1. [MDN: Handling text — strings in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings)
 2. [JavaScript.info: Data Types](https://javascript.info/types)
-3. [W3S: JavaScript Numbers](https://www.w3schools.com/js/js\_numbers.asp)
-4. [W3S: JavaScript Strings](https://www.w3schools.com/js/js\_strings.asp)
+3. [W3S: JavaScript Numbers](https://www.w3schools.com/js/js_numbers.asp)
+4. [W3S: JavaScript Strings](https://www.w3schools.com/js/js_strings.asp)
