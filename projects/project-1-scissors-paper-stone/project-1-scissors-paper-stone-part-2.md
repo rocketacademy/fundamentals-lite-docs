@@ -70,7 +70,7 @@ Implement other variations to the game as described [here](https://en.wikipedia.
 
 ## Submit
 
-If you would like someone from Rocket to review your code and share individual feedback, please join the paid version of our Fundamentals course and let us know you would like to transfer. Thank you!
+Congrats on finishing! If you would like Rocket to review your code and share individual feedback, please join the paid version of our Fundamentals course and let us know you would like to transfer. If you plan to join Rocket's Bootcamp, we highly recommend enrolment in the paid Fundamentals course. Thank you!
 
 ## Reference Solution
 
