@@ -138,7 +138,7 @@ Create a mode where if there are more than 2 players, the game can match players
 
 ## Submit
 
-Congrats on finishing! If you would like Rocket to review your code and share individual feedback, please join the paid version of our Fundamentals course and let us know you would like to transfer. If you plan to join Rocket's Bootcamp, we highly recommend enrolment in the paid Fundamentals course. Thank you!
+Congrats on finishing! If you would like Rocket to review your code and share individual feedback, please join the paid version of our Fundamentals course and let us know you would like to transfer by emailing [jill@rocketacademy.co](mailto:jill@rocketacademy.co). If you plan to join Rocket's Bootcamp, we highly recommend joining paid Fundamentals. Thank you!
 
 ## Reference Solution
 
