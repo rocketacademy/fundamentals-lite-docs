@@ -14,7 +14,7 @@ On Windows, Git installation also enables us to run our terminal in the Bash pro
 _**When copying any commands from the Git website, do not copy the dollar sign ($) in front of the command.**_ The dollar signs in their commands denote the start of command lines, and are not part of the commands.
 {% endhint %}
 
-### **Git - Installation**
+### **Installing Git**
 
 #### Installing Git for Mac OS
 
@@ -67,8 +67,6 @@ Prettier is a code formatter that will auto-format our code and make it more rea
 4. Save the settings file.
 5. Restart VSCode to apply our settings.
 6. Open and save the settings file again and verify that Prettier auto-formats it as our default formatter.
-
-###
 
 ### VSCode Settings
 

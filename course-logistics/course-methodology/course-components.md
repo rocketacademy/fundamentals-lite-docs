@@ -4,7 +4,7 @@ Coding Fundamentals Lite applied a self-driven learning model where the entire c
 
 ### Self-Learning
 
-The core of this class will be self taught, driven by the student to follow the provided [schedule](../schedule-and-pairings/). Following this schedule students are expected to complete their own readings, homework and even projects. The schedule is in place to provide a recommended pace for self learning, and provided office hours (see below) will also be based on the provided timing. The timing of the course is a direct match to our core S.W.E. Fundamentals class, and we believe you can achieve it!
+The core of this class will be self taught, driven by the student to follow the provided [schedule](broken-reference). Following this schedule students are expected to complete their own readings, homework and even projects. The schedule is in place to provide a recommended pace for self learning, and provided office hours (see below) will also be based on the provided timing. The timing of the course is a direct match to our core S.W.E. Fundamentals class, and we believe you can achieve it!
 
 ### **Office hours**
 
