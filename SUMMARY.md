@@ -43,7 +43,7 @@
 ## 4: Conditional Logic
 
 * [4.1: Intro to Logic](4-conditional-logic/4.1-intro-to-logic.md)
-* [4.2: Pseudo-Code, Boolean OR](4-conditional-logic/4.2-pseudo-code-boolean-or.md)
+* [4.2: Pseudo-Code, Boolean Or](4-conditional-logic/4.2-pseudo-code-boolean-or.md)
 * [4.3: Boolean AND, NOT](4-conditional-logic/4.3-boolean-and-not.md)
 * [4.4: Input Validation](4-conditional-logic/4.4-input-validation.md)
 * [Additional Resources 4](4-conditional-logic/additional-resources-4.md)
@@ -81,6 +81,7 @@
 * [Day 3: Functions](homeworks/day-3-functions.md)
 * [Day 4: If Statements, Boolean Or, Boolean And](homeworks/day-4-if-statements-boolean-or.md)
 * [Day 5: Program State](homeworks/day-5-boolean-and-program-state.md)
+* [Day 6: Scissors Paper Stone Redux](homeworks/day-6-scissors-paper-stone-redux.md)
 * [Day 7: Loops](homeworks/day-7-loops.md)
 * [Day 8: Arrays and Loops](homeworks/day-8-arrays-and-loops.md)
 
