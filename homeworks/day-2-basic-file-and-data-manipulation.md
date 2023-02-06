@@ -2,19 +2,15 @@
 
 ## Introduction
 
-We will now put to use what we have learned so far. Before you attempt a problem, be sure to:
+We will now put to use what we have learnt so far. Before you attempt a problem, be sure to:
 
-1. Read through the entire problem statement individually.
-2. Check your understanding of the problem by **discussing with your partner**:
-   1. What the program needs to do.
-   2. How it can be implemented.
-3. Write or type, in plain English, the instructions you and your partner want your program to follow.
+1. Read through the entire problem statement
+2. Check your understanding of the problem:
+   1. What the program needs to do
+   2. How it can be implemented
+3. Write or type, in plain English, the instructions you would like your program to follow.
 
-For some problems you may need to google for information. Remember that as pairs, you are also googling together. **Please switch driver and navigator for each problem statement.**
-
-When you run into a bug, talk out loud with your partner what you _expected_ to happen, and what happened instead, before attempting to find a solution.
-
-If needed, use the **'ask host for help'** function in Zoom. You may also find the **"annotate" feature** in Zoom useful when pair programming.
+For some problems you may need to google for information. When faced with a bug, speak out loud what you expected to happen and what happened instead before attempting to find a solution. If needed, ask for help over email or at office hours.
 
 ## Base
 

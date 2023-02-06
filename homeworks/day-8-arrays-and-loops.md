@@ -4,7 +4,7 @@
 
 Today we will practice arrays with occasional loops through the game of Mad Libs. Note that loops may not be necessary for every exercise.
 
-Mad Libs is a word game where players fill in the blanks with random words, such that the final sentence is usually funny. If you're unfamiliar with Mad Libs, please read the Wikipedia description [here](https://en.wikipedia.org/wiki/Mad_Libs).
+Mad Libs is a word game where players fill in the blanks with random words, such that the final sentence is usually funny. If you're unfamiliar with Mad Libs, please read the Wikipedia description [here](https://en.wikipedia.org/wiki/Mad\_Libs).
 
 #### Example "Mad Lib" Sentence from Wikipedia
 
@@ -69,7 +69,7 @@ When the user inputs "create", change the game mode to create mode. In create mo
 
 ### Input Multiple Words
 
-When the Fundamentals Starter Code app loads, the user can input 1 or more adjectives to store in the app with each Submit. To input more than 1 word for each Submit, the user would give each word separated by a space, e.g., "_green nice silly_". We can use JavaScript's string `split` method to split the input string into an array of substrings. See W3Schools docs [here](https://www.w3schools.com/jsref/jsref_split.asp) for details.
+When the Fundamentals Starter Code app loads, the user can input 1 or more adjectives to store in the app with each Submit. To input more than 1 word for each Submit, the user would give each word separated by a space, e.g., "_green nice silly_". We can use JavaScript's string `split` method to split the input string into an array of substrings. See W3Schools docs [here](https://www.w3schools.com/jsref/jsref\_split.asp) for details.
 
 {% hint style="info" %}
 Reminder: There is no need to complete all exercises on this page. Once comfortable with the concepts, feel free to work on Project 2: _Beat That!_ as a pair, or go back and solve / refactor previous _More Comfortable_ exercises like [_Hawker Food Omakase_](day-4-if-statements-boolean-or.md#hawker-food-omakase) with your newly learnt skills.
@@ -99,8 +99,8 @@ Mad Lib 2 might be:
 
 Update create mode to pick a random Mad Lib sentence and set of words and output the completed Mad Lib in the grey box on Submit.
 
-Feel free to see Google results [here](https://www.google.com/search?q=mad+lib+examples&tbm=isch) for potential Mad Lib inspiration.
+Feel free to see Google results [here](https://www.google.com/search?q=mad+lib+examples\&tbm=isch) for potential Mad Lib inspiration.
 
 ## Reference Solution
 
-[Here](https://github.com/rocketacademy/fundamentals-starter-code/tree/day7) is a reference solution for Day 7 exercises. [Here](https://github.com/rocketacademy/fundamentals-starter-code/tree/day7-moreComfortable) is a reference solution for Day 7 More Comfortable exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
+[Here](https://github.com/rocketacademy/fundamentals-starter-code/tree/day7) is a reference solution for Base exercises, and [here](https://github.com/rocketacademy/fundamentals-starter-code/tree/day7-moreComfortable) is a reference solution for Comfortable and More Comfortable exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
