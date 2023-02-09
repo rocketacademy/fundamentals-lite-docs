@@ -16,7 +16,7 @@
 
 ## Week 1, Course Day 1: Introduction <a href="#course-day-0" id="course-day-0"></a>
 
-Office Hours: 7:30PM-9:30PM SGT (GMT+8)
+Office hours: 8-9pm SGT (GMT+8)
 
 #### Day 1 video
 
@@ -39,7 +39,7 @@ Module 1: Introduction
 
 ## Week 1, Course Day 2: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
 
-Office hours: 7:30PM-9:30PM SGT (GMT+8)
+Office hours: 8-9pm SGT (GMT+8)
 
 #### Day 2 video
 
@@ -71,7 +71,7 @@ Please **do not** attempt homework before finishing the corresponding reading ma
 
 ## Week 2, Course Day 3: Functions <a href="#course-day-2" id="course-day-2"></a>
 
-Office hours: 7:30PM-9:30PM SGT (GMT+8)
+Office hours: 8-9pm SGT (GMT+8)
 
 #### Day 3 Video
 
@@ -90,7 +90,7 @@ Module 3: Structuring and Debugging Code
 
 ## Week 2, Course Day 4: Logic 1 <a href="#course-day-3" id="course-day-3"></a>
 
-Office hours: 7:30PM-9:30PM SGT (GMT+8)
+Office hours: 8-9pm SGT (GMT+8)
 
 #### Day 4 video
 
@@ -117,7 +117,7 @@ Module 4: Conditional Logic
 
 ## Week 3, Course Day 5: Logic 2, States <a href="#course-day-4" id="course-day-4"></a>
 
-Office hours: 7:30PM-9:30PM SGT (GMT+8)
+Office hours: 8-9pm SGT (GMT+8)
 
 #### Day 5 video
 
@@ -144,7 +144,7 @@ Module 5: Global State
 
 ## Week 3, Course Day 6: Git, GitHub <a href="#course-day-5" id="course-day-5"></a>
 
-Office hours: 7:30PM-9:30PM SGT (GMT+8)
+Office hours: 8-9pm SGT (GMT+8)
 
 #### Day 6 video
 
@@ -172,7 +172,7 @@ Module 8: GitHub
 
 ## Week 4, Course Day 7: Arrays, Loops 1 <a href="#course-day-6" id="course-day-6"></a>
 
-Office hours: 7:30PM-9:30PM SGT (GMT+8)
+Office hours: 8-9pm SGT (GMT+8)
 
 #### Day 7 video
 
@@ -195,7 +195,7 @@ Module 6: Arrays and Iteration
 
 ## Week 4, Course Day 8: Loops 2 <a href="#course-day-7" id="course-day-7"></a>
 
-Office hours: 7:30PM-9:30PM SGT (GMT+8)
+Office hours: 8-9pm SGT (GMT+8)
 
 #### Day 8 video
 
