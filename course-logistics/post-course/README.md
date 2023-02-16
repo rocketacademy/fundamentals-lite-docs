@@ -1,7 +1,7 @@
 # 🎓 Post-Course
 
-{% content-ref url="linkedin-certificates.md" %}
-[linkedin-certificates.md](linkedin-certificates.md)
+{% content-ref url="upgrading-to-paid-fundamentals.md" %}
+[upgrading-to-paid-fundamentals.md](upgrading-to-paid-fundamentals.md)
 {% endcontent-ref %}
 
 {% content-ref url="bootcamp-admission-criteria.md" %}
