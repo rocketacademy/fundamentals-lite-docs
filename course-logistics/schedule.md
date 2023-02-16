@@ -16,8 +16,6 @@
 
 ## Week 1, Course Day 1: Introduction <a href="#course-day-0" id="course-day-0"></a>
 
-Office hours: 8-9pm SGT (GMT+8)
-
 #### Day 1 video
 
 {% embed url="https://www.youtube.com/watch?v=i9bxzoD1c3A" %}
@@ -38,8 +36,6 @@ Module 1: Introduction
 - [1.2: Web Browsers](../1-introduction/1.2-web-browsers.md)
 
 ## Week 1, Course Day 2: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
-
-Office hours: 8-9pm SGT (GMT+8)
 
 #### Day 2 video
 
@@ -71,8 +67,6 @@ Please **do not** attempt homework before finishing the corresponding reading ma
 
 ## Week 2, Course Day 3: Functions <a href="#course-day-2" id="course-day-2"></a>
 
-Office hours: 8-9pm SGT (GMT+8)
-
 #### Day 3 Video
 
 {% embed url="https://www.youtube.com/watch?v=uQOK6OJbvic" %}
@@ -89,8 +83,6 @@ Module 3: Structuring and Debugging Code
 - [Day 3: Functions](../homeworks/day-3-functions.md)
 
 ## Week 2, Course Day 4: Logic 1 <a href="#course-day-3" id="course-day-3"></a>
-
-Office hours: 8-9pm SGT (GMT+8)
 
 #### Day 4 video
 
@@ -117,8 +109,6 @@ Module 4: Conditional Logic
 
 ## Week 3, Course Day 5: Logic 2, States <a href="#course-day-4" id="course-day-4"></a>
 
-Office hours: 8-9pm SGT (GMT+8)
-
 #### Day 5 video
 
 {% embed url="https://www.youtube.com/watch?v=Mw8M9Dh1NFg" %}
@@ -143,8 +133,6 @@ Module 5: Global State
 [Project 1: Scissors Paper Stone (Part 2)](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
 
 ## Week 3, Course Day 6: Git, GitHub <a href="#course-day-5" id="course-day-5"></a>
-
-Office hours: 8-9pm SGT (GMT+8)
 
 #### Day 6 video
 
@@ -172,8 +160,6 @@ Module 8: GitHub
 
 ## Week 4, Course Day 7: Arrays, Loops 1 <a href="#course-day-6" id="course-day-6"></a>
 
-Office hours: 8-9pm SGT (GMT+8)
-
 #### Day 7 video
 
 {% embed url="https://www.youtube.com/watch?v=virTeOO5wac" %}
@@ -194,8 +180,6 @@ Module 6: Arrays and Iteration
 [Project 2: Beat That!](../projects/project-2-beat-that.md)
 
 ## Week 4, Course Day 8: Loops 2 <a href="#course-day-7" id="course-day-7"></a>
-
-Office hours: 8-9pm SGT (GMT+8)
 
 #### Day 8 video
 
