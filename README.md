@@ -1,10 +1,24 @@
+---
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: false
+---
+
 # 🚀 Course Overview
 
 ## Welcome to Fundamentals Lite!
 
 Coding Fundamentals is Rocket Academy's intro course in software programming, also known as coding. You will learn basic coding syntax and concepts through building simple programs. Students interested in software engineering careers can continue with Rocket's [Coding Bootcamp](https://www.rocketacademy.co/courses/bootcamp-course) after Fundamentals to build more complex applications and start on a career as a software engineering.
 
-Fundamentals Lite is a free and self-serve version of Fundamentals. For students keen on becoming software engineers, we highly recommend you join the paid version of Fundamentals to get personal instructor guidance and stronger community engagement.&#x20;
+Fundamentals Lite is a free and self-serve version of Fundamentals. For students keen on becoming software engineers, we highly recommend you join the paid version of Fundamentals to get personal instructor guidance and stronger community engagement.
 
 If you are interested in understanding what is required to attend our Bootcamp, please refer to the [Bootcamp Admission Criteria page](course-logistics/post-course/bootcamp-admission-criteria.md).
 
